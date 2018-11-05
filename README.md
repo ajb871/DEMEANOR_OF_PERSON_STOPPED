@@ -1,4 +1,4 @@
-#DEMEANOR_OF_PERSON_STOPPED
+# DEMEANOR_OF_PERSON_STOPPED
 
 This project began with the intent of visualizing the disproportional targeting of minorities through the "Stop, Question, and Frisk" program, using NYC OpenData from the NYPD.
 
